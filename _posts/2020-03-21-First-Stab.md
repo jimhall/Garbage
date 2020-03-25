@@ -2,7 +2,6 @@
 layout: page
 title: "First Stab"
 date: 2020-03-21 17:15:00 -5000
-categories:
 ---
 # Test
 This is a test of the emergency blah blah
